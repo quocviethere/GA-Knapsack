@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/96617645/236198151-29795b1f-3666-4dc3-
 This project is an implementation of the Knapsack Problem using Genetic Algorithm in Python. The Knapsack Problem is a combinatorial optimization problem that involves selecting a set of items to maximize the total value while keeping the total weight below a certain limit. The Genetic Algorithm is a heuristic optimization method that is inspired by the process of natural selection.
 
 ## Code Description
-The `ga_algorithm2.py` file contains the following functions:
+The `ga.py` file contains the following functions:
 
 - `generate_random_value()`: generates a random binary value (0 or 1).
 - `create_individual(n_items)`: creates an individual chromosome of length n_items by calling generate_random_value() for each bit.
