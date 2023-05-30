@@ -5,13 +5,6 @@ https://user-images.githubusercontent.com/96617645/236198151-29795b1f-3666-4dc3-
 
 This project is an implementation of the Knapsack Problem using Genetic Algorithm in Python. The Knapsack Problem is a combinatorial optimization problem that involves selecting a set of items to maximize the total value while keeping the total weight below a certain limit. The Genetic Algorithm is a heuristic optimization method that is inspired by the process of natural selection.
 
-## Getting Started
-To get started with this project, you will need to have Python 3 installed on your machine. You can download Python 3 from the official website: https://www.python.org/downloads/
-
-Once you have Python 3 installed, you can clone the repository and install the required packages by running the following commands:
-
-`git clone https://github.com/quocviethere/Knapsack-Problem-using-Genetic-Algorithm/`
-
 ## Code Description
 The `ga_algorithm2.py` file contains the following functions:
 
